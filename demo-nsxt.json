@@ -1,0 +1,25 @@
+{
+  "Company": {
+    "Email": null,
+    "FullName": null,
+    "ShortName": null,
+    "Phone": null,
+    "Contact": null,
+    "Address": null
+  },
+  "Email": {
+    "Server": null,
+    "Body": null,
+    "Port": null,
+    "From": null,
+    "UseSSL": null,
+    "Credentials": null,
+    "To": null
+  },
+  "UserFolder": {
+    "Path": "./"
+  },
+  "Report": {
+    "Author": "Conor Tolan"
+  }
+}
